@@ -6,7 +6,7 @@
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Demo](#Demo)
+5. 🕸️ [Demo](#demo)
 
 
 ## <a name="introduction">🤖 Introduction</a>
@@ -53,6 +53,7 @@ npm install
 npm run dev
 ```
 
-**Demo**
+## <a name="demo"> 🕸️ **Demo**</a>
+
  https://speechly-expense-tracker.vercel.app
 
